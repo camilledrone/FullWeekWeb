@@ -1,0 +1,63 @@
+.fw-banner {
+    color: black;
+    text-align: right;
+    padding: 32px;
+    border-bottom: solid 3px black;
+    display: flex;
+	justify-content: flex-end;
+	flex-direction: row;
+	align-items: center;
+}
+
+.lmj-title {
+	padding-left: 32px;
+}
+
+.fw-logo {
+	height: 45px;
+	width: 45px;
+}
+
+a {
+    display:inline-block;
+    text-decoration: none;
+	padding: 5px;
+    color: rgb(57, 92, 195);
+}
+td {
+    padding: 5px 10px;
+    text-align: center;
+}
+
+th {
+    padding: 5px 10px;
+    color: white;
+    background-color: black;
+}
+
+table {
+    border-spacing: 5px;
+}
+
+h1 {
+    color: #2C302E;
+}
+
+h2 {
+    color: #474A48;
+}
+
+h3, h4 {
+    color: #909590;
+}
+
+h1,h2,h3,h4 {
+    border-bottom: 2px solid #9AE19D;
+}
+
+span {
+    background: #9AE19D;
+    padding: 1px;
+    margin: 3px;
+    border: 1px solid black;
+}

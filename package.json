@@ -1,0 +1,26 @@
+{
+  "name": "FullWeekWeb",
+  "version": "1.0.0",
+  "description": "Web application Full Week",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilledrone/FullWeekWeb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilledrone/FullWeekWeb/issues"
+  },
+  "homepage": "https://github.com/camilledrone/FullWeekWeb#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "gatsby": "^4.14.1",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
